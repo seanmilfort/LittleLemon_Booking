@@ -12,6 +12,7 @@ const Nav = () => {
                 <li><a>Reservations</a></li>
                 <li><a>Order Online</a></li>
                 <li><a>Login</a></li>
+
             </ul>
         </nav>
     )

@@ -7,12 +7,13 @@ import Footer from "./components/Footer"
 
 function App() {
   return (
+    <div>
     <React.Fragment>
       <Nav />
-      <Header />
       <Main />
       <Footer />
     </React.Fragment>
+    </div>
   );
 }
 
